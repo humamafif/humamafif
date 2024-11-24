@@ -2,7 +2,7 @@
 # 🌟 Humam Afif Al-Mahbubi
 
 ### 👇 About Me 👇
-I'm currently learning Web and Mobile development using Next JS and Flutter.
+Hello I'm a Mobile and Web Enthusiast🖐️
 
 ### 🌐 Socials 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/humamafif__)
