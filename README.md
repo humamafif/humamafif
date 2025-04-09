@@ -4,11 +4,13 @@
 ### 👇 About Me 👇
 Hello I'm a Mobile and Web Enthusiast🖐️
 
+
 ### 🌐 Socials 🌐
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/humamafif__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/humam-afif-al-mahbubi-98522024b/)
 
 ---
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="300" />
 
 ### 💻 Tech Stack 💻
 #### 📱 Mobile App Frameworks 📱
