@@ -10,7 +10,7 @@ Hello I'm a Mobile and Web Enthusiast🖐️
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/humam-afif-al-mahbubi-98522024b/)
 
 ---
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="300" />
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" height="250" />
 
 ### 💻 Tech Stack 💻
 #### 📱 Mobile App Frameworks 📱
