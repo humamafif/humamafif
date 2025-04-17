@@ -1,5 +1,4 @@
-
-# 🌟 **Humam Afif Al-Mahbubi** 🌟
+<h1 align="center">🌟 Humam Afif Al-Mahbubi 🌟</h1>
 
 ### 👇 About Me 👇
 Hello I'm a Mobile and Web Enthusiast🖐️
