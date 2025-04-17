@@ -26,7 +26,7 @@ Hello I'm a Mobile and Web Enthusiast🖐️
 ---
 
 ### 📊 GitHub Stats
-![Humam Afif Al-Mahbubi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humamafif&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humamafif&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humamafif&theme=dark)
+![Humam Afif Al-Mahbubi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humamafif&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humamafif&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humamafif&layout=compact&theme=tokyonight)
 ---
