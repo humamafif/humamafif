@@ -29,3 +29,7 @@ Hello I'm a Mobile and Web Enthusiast🖐️
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=humamafif&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humamafif&layout=compact&theme=tokyonight)
 ---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=humamafif&color=blue" alt="Views on Github" />
+</div>
