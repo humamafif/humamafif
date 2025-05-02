@@ -8,12 +8,10 @@ Hello I'm a Mobile and Web Enthusiast🖐️ -->
 
 ### 🌐 Socials 🌐
 <div>
-    <a href="https://instagram.com/humamafif__">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://linkedin.com/in/humam-afif-al-mahbubi-98522024b">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+    <div align="left">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href= "https://instagram.com/humamafif__" width="52" height="35" alt="linkedin logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="35" alt="instagram logo"  />
+    </div>
 </div>
 
 ---
@@ -36,16 +34,12 @@ Hello I'm a Mobile and Web Enthusiast🖐️ -->
 
 ### 📊 GitHub Stats
 <div align="center">
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 8px">
-        <img src="https://github-readme-stats.vercel.app/api?username=humamafif&show_icons=true&theme=tokyonight" alt="Humam Afif Al-Mahbubi's GitHub Stats" height="180" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humamafif&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-    </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=humamafif&theme=tokyonight" alt="GitHub Streak" height = "200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=humamafif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humamafif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=humamafif&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humamafif&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=false&title_color=ffffff" height="300" alt="activity-graph graph"  />
 </div>
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=humamafif&color=blue" alt="Views on Github" />
-</div>
-
+<img src="https://raw.githubusercontent.com/humamafif/humamafif/output/snake.svg" alt="Snake animation" />
