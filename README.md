@@ -40,6 +40,4 @@ Hello I'm a Mobile and Web Enthusiast🖐️ -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=humamafif&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false&hide_border=false&title_color=ffffff" height="300" alt="activity-graph graph"  />
 </div>
 
----
-
 <img src="https://raw.githubusercontent.com/humamafif/humamafif/output/snake.svg" alt="Snake animation" />
