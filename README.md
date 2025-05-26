@@ -3,16 +3,16 @@
 </div>
 
 <p align="center">
-    <a href="https://humamafif-portfolio.vercel.app/" target="_blank">
+    <a href="https://humamafif-portfolio.vercel.app/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/humamafif" target="_blank">
+    <a href="https://linkedin.com/in/humamafif" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/humamafif__" target="_blank">
+    <a href="https://instagram.com/humamafif__" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:your.email@example.com" target="_blank">
+    <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
@@ -23,12 +23,12 @@
 
 ## About Me
 
-I'm a passionate developer focused on creating elegant, user-centered digital experiences. With expertise in mobile and web development, I strive to build solutions that are both functional and intuitive.
+I'm a passionate developer focused on creating elegant, user-centered digital experiences. With expertise in mobile development, I strive to build solutions that are both functional and intuitive.
 
 - 🔭 Currently working on mobile applications with Flutter
 - 🌱 Expanding my knowledge in backend development
 - 👯 Open to collaborations and interesting projects
-- 💬 Ask me about mobile development and UI/UX design
+- 💬 Ask me about mobile development
 
 <br/>
 
