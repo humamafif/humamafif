@@ -2,8 +2,6 @@
     <img src="img/github-header-image.png" alt="Humam Afif Al-Mahbubi | Developer" />
 </div>
 
-<h2 align="center">Mobile & Web Developer</h2>
-
 <p align="center">
     <a href="https://humamafif-portfolio.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
