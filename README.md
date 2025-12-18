@@ -12,7 +12,7 @@
     <a href="https://instagram.com/humamafif__" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none;">
+    <a href="mailto:afifalmahbubi04@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
@@ -80,6 +80,7 @@ I'm a passionate developer focused on creating elegant, user-centered digital ex
 ---
 
 ## GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=humamafif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humamafif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -88,6 +89,7 @@ I'm a passionate developer focused on creating elegant, user-centered digital ex
 </div>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/humamafif/humamafif/output/snake.svg" alt="Snake animation" />
 </div>
